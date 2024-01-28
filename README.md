@@ -1,11 +1,13 @@
 [![MasterHead](https://user-images.githubusercontent.com/80781196/190216139-7697aa5a-c9a0-4bd6-80bf-3aca76a2e1c8.gif)]
 <h1 align="center">Hi 👋, I'm Sibgatullah</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sibgatullah&label=Profile%20views&color=0e75b6&style=flat" alt="sibgatullah" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sibgatullah" alt="sibgatullah" /></a> </p>
+
+
+<img align="right" alt="coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 I’m currently working on **E-Commerce site**
 
@@ -18,6 +20,8 @@
 - 📫 How to reach me **sibgatullah881@gmail.com**
 
 - ⚡ Fun fact **Life is a joke , just chill.**
+
+<p align="left" width="100" > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sibgatullah" alt="sibgatullah" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
