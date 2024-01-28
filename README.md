@@ -3,7 +3,7 @@
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sibgatullah&label=Profile%20views&color=0e75b6&style=flat" alt="sibgatullah" /> </p>
+
 
 
 
@@ -20,6 +20,8 @@
 - 📫 How to reach me **sibgatullah881@gmail.com**
 
 - ⚡ Fun fact **Life is a joke , just chill.**
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sibgatullah&label=Profile%20views&color=0e75b6&style=flat" alt="sibgatullah" /> </p>
 
 <p align="left" width="100" > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sibgatullah" alt="sibgatullah" /></a> </p>
 
