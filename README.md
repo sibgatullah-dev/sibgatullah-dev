@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **sibgatullah881@gmail.com**
 
-- ⚡ Fun fact **Life is a joke , just chill.**
+- ⚡ Fun fact **PHP never dies.**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sibgatullah&label=Profile%20views&color=0e75b6&style=flat" alt="sibgatullah" /> </p>
 
