@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **E-Commerce site**
 
-- 🌱 I’m currently learning **React, Next JS, JavaScript,**
+- 🌱 I’m currently learning **React, Vue JS, JavaScript, PHP , Laravel**
 
 - 👯 I’m looking to collaborate on **on github**
 
