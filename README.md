@@ -15,7 +15,7 @@
 
 - 👯 I’m looking to collaborate on **on github**
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **Laravel**
 
 - 📫 How to reach me **sibgatullah881@gmail.com**
 
