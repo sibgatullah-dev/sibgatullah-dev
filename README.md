@@ -36,7 +36,7 @@
 <br/>
 <hr /> 
 <a href="https://github.com/sibgatullah-dev">
-  <img align="left" src="https://github-readme-stats-eight-theta.vercel.app/api?usesibgatullah-dev&theme=nord&show_icons=true&count_private=true&hide=contribs&line_height=30" />
+  <img align="left" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sibgatullah-dev&theme=nord&show_icons=true&count_private=true&hide=contribs&line_height=30" />
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sibgatullah-dev&show_icons=true&locale=en&layout=compact&theme=nord&line_height=30" />
 </a>
 <a href="https://github.com/sibgatullah-dev">
