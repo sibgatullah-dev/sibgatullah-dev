@@ -9,7 +9,6 @@
 
 <img align="right" alt="coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on **E-Commerce site**
 
 - 🌱 I’m currently learning **React, Vue JS, JavaScript, PHP , Laravel**
 
