@@ -7,7 +7,7 @@
 
 
 
-<img align="right" alt="coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<!-- <img align="right" alt="coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
 - 🌱 I’m currently working with **React, Vue JS, JavaScript, PHP , Laravel**
@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **sibgatullah881@gmail.com**
 
-- ⚡ Fun fact **PHP never dies.**
+- ⚡ Fun fact **PHP never dies.** -->
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sibgatullah&label=Profile%20views&color=0e75b6&style=flat" alt="sibgatullah" /> </p> -->
 
